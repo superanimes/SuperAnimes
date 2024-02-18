@@ -33,4 +33,17 @@
 
 <h2>Suporte</h2>
 
-<p>Se t
+<p>Se tiver dúvidas ou precisar de ajuda, entre em contato conosco através do nosso suporte no aplicativo ou pelo e-mail: suporte@superanimesapp.com.</p>
+
+<h2>Aviso Legal</h2>
+
+<p>Este aplicativo é feito por fãs e não é oficial. Todo o conteúdo é fornecido conforme disponibilidade por fontes terceiras. Todos os direitos autorais e marcas registradas são propriedade de seus respectivos donos.</p>
+
+<h2>Contribua</h2>
+
+<p>Acreditamos na comunidade e na colaboração. Se você deseja contribuir com o projeto, seja com feedback, sugestões ou desenvolvimento, sinta-se à vontade para abrir um issue ou pull request.</p>
+
+<p>Agradecemos seu apoio e esperamos que aproveite ao máximo o SuperAnimes App!</p>
+
+</body>
+</html>
